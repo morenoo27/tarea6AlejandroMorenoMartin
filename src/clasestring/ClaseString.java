@@ -22,6 +22,8 @@ public class ClaseString {
         // Obtener el char de una posicion concreta
         System.out.println("char de la posicion 5: " + s.charAt(5));
        
+        //sout de mi nombre y apellidos
+        System.out.println("Alejandro Moreno Martin");
     }
     
 }
